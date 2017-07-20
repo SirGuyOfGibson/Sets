@@ -81,13 +81,13 @@ class Screen(object):
         duration = self.font.render(text, False, BLACK)
         self.rendered[textlayerkey] = (duration, x, y)
 
-    def say(self, text, x, y):
-        word = self.font.render(text, False, BLACK)
-        self.rendered['3word'] = (word, x, y)
+    def save(self, name):
+        pygame.image.save(self.background,name+'.bmp')
 
 
     def __A_PRESS(self):
         self.R, self.G, self.B = self.R+4, self.G+3, self.B-5
+
 
 
 
