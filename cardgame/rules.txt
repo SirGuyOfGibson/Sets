@@ -1,0 +1,117 @@
+								----KINGDOM RULES----
+
+KEYWORDS:
+
+	The Realm:
+		
+		This keyword represents the zone in which all Cards, 
+		excluding one's deck and hand, exist simultaniously.
+
+	Abilities:
+	
+		The bolded block of text located at the top of the text field in a card
+		is the abilities of that card.  Abilities are seperated by periods. These
+		period-delimited sentences are each, individually, their own "Ability". The	
+		term "Abilities" represents each individual Ability all wrapped into one container.
+		
+		Triggering Abilities:
+			Some abilities trigger at specific moments in the game.  These are
+			Triggered Abilities.  If an Ability starts with any of the phrases below,
+			it is a Triggered Ability, and triggers at the described time.
+			
+				"At the beginning/end of your turn"
+				"Whenever _________________"
+				"When __________________"
+				
+	Create:
+	
+		Put a new card into play from your hand, or in some cases, Create can
+		mean simply making a card out of thin air, kind of like a Token
+		from Magic: the Gathering. Any uses of the Create keyword will be
+		self explanitory as to whether you make a "token" or play from your hand.
+		
+		If the keyword instance is worded: "You may create ______" it means 
+		playing from your hand. 
+		
+		If it is worded: "Create ______" it is not optional, and creates a "token".
+				
+	Pawn:
+		
+		If a card is any of the Classes listed below, it is considered a Pawn
+		
+			Aristocrat
+
+	Impede [card] for X turns:
+		
+		To prevent all of a card's Abilities from triggering for X turns.
+		
+	Impede any Ability:
+		
+		To prevent an Ability from triggering for 2 turns. When worded this way,
+		you may choose any Ability from any card in The Realm.
+			
+	Cast Away:
+		
+		To be removed from the game, from The Realm.
+
+	Killed:
+		
+		To be removed from the game, from The Realm, due to the effect of a Pawn.
+		
+RESOURCE CONCEPTS:
+		
+	Governance:
+
+		Governance is the backbone resource for creating Laws, 
+		creating Structures, and waging war. Governance is often
+		produced by your Aristocracy and only a few other things. The King 
+		and Queen are vital components to your Aristocracy, and when you
+		lose one of	them, especially early-game, it can be devastating.
+		
+	Unrest:
+		
+		In KINGDOM, you will likely gather a lot of Unrest
+		at various points in the game. Wartime can be a time of 
+		stress in which you will build up a lot of Unrest.
+		The best way to look at it is as if each Unrest card is its 
+		own card--because it IS. They can, however, be Cast Away using 
+		various Abilities, and they even go away on their own depending
+		on how much	Governance and Loyalty you have.
+			
+		At the end of your turn, you may cast away as many Unrest as you have 
+		Governance, divided by 10, rounded down (if you have 107 Governance, you may Cast Away 10 Unrest)	
+		If you have the most Governance out of all the players, you must then Cast Away Governance equal 
+		to the Unrest you got rid of. So with 107 Governance, if you had the most, you'd be down to 97 
+		Governance after the Unrest got Cast Away.		
+	
+	Loyalty:
+	
+		Loyalty is a representation of how loyal your people are to you (surprise surprise)
+		Loyalty and Governance work together to rid your kingdom of Unrest.  Loyalty is 
+		often produced by Structures and events, such as winning a war.
+		
+		Every 5 turns, at the beginning of your turn (that is, you begin this cycle at the 
+		beginning of your fifth turn) you may Cast Away up to 1/5 of your Loyalty Cards.
+		Consider each Card Cast Away to be a "point".  Then, spend your points however you choose:
+		
+			2 Points: Cast Away 1 Unrest. The maximum amount of Unrest you're allowed to remove 
+					  this way is equal to half of your total Unrest, rounded down.
+			
+			4 Points: Create 1 Governance.  This can only be done up to 10 times, and CANNOT be done at 
+					  all if you have the most Governance already.
+					  
+			7 Points: Draw a card from your deck. This can only be done up to 4 times.
+			
+
+STARTING THE GAME:
+
+	To start off, every player begins with a King, Queen, Prince, and Princess under their control.
+	These Cards are vital to building some up Governance early on, the four of them producing 6 per turn.
+	
+	Players also start the game with 50 Governance, 15 Loyalty,
+	
+	Pace is vital in KINGDOM, if you go nuts
+	producing Structures and passing Laws in the first few turns, you may run low on
+	Governance, which results in your Unrest growing at a quicker rate.
+	
+	
