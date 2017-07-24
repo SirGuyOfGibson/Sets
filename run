@@ -1,22 +1,4 @@
 #!/bin/sh
 
-python3 -ic 'import display
-from threading import Thread
-screen = display.Screen()
-MAIN_THREAD = Thread(target = screen.run)
-MAIN_THREAD.setDaemon(True)
-MAIN_THREAD.start()
-from julia import Julia
-j=Julia(500,300,[screen.bg_color,display.WHITE,display.RED,display.GREEN,display.BLUE],0.0, 0.0)
-def update():
-	j.calculate()
-	screen.background = j.image
-	screen.show_axis(False)
-update()
-def inP(diff):
-	j.P+=diff
-	update()
-def inQ(diff):
-	j.Q+=diff
-	update()'
-
+python3 -iBc 'from run_julia import julia, display, p, q, update
+update()'
