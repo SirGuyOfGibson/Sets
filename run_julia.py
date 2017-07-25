@@ -3,8 +3,8 @@ from julia import Julia
 from display import Screen
 from threading import Thread
 
-screen_width = 1000
-screen_height = 1000
+screen_width = 500
+screen_height = 500
 screen_running = True
 show_axis=True
 
